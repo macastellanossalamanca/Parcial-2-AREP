@@ -1,4 +1,13 @@
-# Parcial1-AREP
+# Parcial 2-AREP
 ## Miguel Castellanos
-- Para hacer uso del servicio desplegado en heroku, se debe usar la URL https://parcial1servicio.herokuapp.com/trig?valor=2&operacion=tan
-- Si se desea cambiar el valor o la operación a realizar, se debe cambiar en la url el valor deseado con la operación
+## Video
+- https://drive.google.com/file/d/1sjEHBDEiSds6FWIeFJzoHeLsj6bNGAi6/view?usp=sharing
+## Servicio Desplegado en EC2
+- http://ec2-52-207-147-153.compute-1.amazonaws.com:35000/cos?value=10
+[![Deployed to AWS](BotonAWS.png)](http://ec2-52-207-147-153.compute-1.amazonaws.com:35000/cos?value=10)
+
+### Coseno
+![Coseno](https://user-images.githubusercontent.com/44925834/112693134-183a4f80-8e4e-11eb-813e-dca8c75c6a6f.jpg)
+
+### ArcoTangente
+![Atan](https://user-images.githubusercontent.com/44925834/112693278-5e8fae80-8e4e-11eb-81f8-d1b14a714d55.jpg)
