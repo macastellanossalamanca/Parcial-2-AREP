@@ -3,7 +3,6 @@
 ## Video
 - https://drive.google.com/file/d/1sjEHBDEiSds6FWIeFJzoHeLsj6bNGAi6/view?usp=sharing
 ## Servicio Desplegado en EC2
-- http://ec2-52-207-147-153.compute-1.amazonaws.com:35000/cos?value=10
 [![Deployed to AWS](BotonAWS.png)](http://ec2-52-207-147-153.compute-1.amazonaws.com:35000/cos?value=10)
 
 ### Coseno
